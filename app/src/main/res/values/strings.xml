@@ -12,4 +12,6 @@
     <string name="title_activity_detail_home">DetailHomeActivity</string>
     <string name="overview">overview</string>
 
+    <string name="title_favorite">Title Favorite</string>
+
 </resources>
